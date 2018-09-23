@@ -22,10 +22,11 @@ module.exports = {
                 exclude: /node_modules/
             },
             {
-                test: /\.css/,
+                test: /\.scss/,
                 use: [
                     { loader: "style-loader" },
                     { loader: "css-loader" }
+                    { loader: "sass-loader" }
                 ]
             }
         ]
