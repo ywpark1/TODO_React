@@ -22,7 +22,7 @@
     "babel-loader": "^8.0.2",
     "babel-plugin-transform-class-properties": "^6.24.1",
     "css-loader": "^1.0.0",
-    "live-server": "^1.2.0",
+    "live-server": "^1.2.1",
     "node-sass": "^4.9.3",
     "normalize.css": "^8.0.0",
     "react": "^16.5.0",
